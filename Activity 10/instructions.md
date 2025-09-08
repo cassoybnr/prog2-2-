@@ -1,0 +1,1 @@
+Write a C program that will ask the user for the size of the array and the datatype of the array. Then create a dynamic array. The program will then again ask for user input for the new size of the array and adjust the array.
