@@ -1,0 +1,1 @@
+Write a C program that will ask the user for the size of the array and the data type of the array. Then create two dynamic arrays, one using malloc() and the other using calloc() and then fill all elements with even values(for malloc) and odd values(for calloc)
