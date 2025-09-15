@@ -3,4 +3,4 @@ Create a C program that will
 2. Ask for the number of students (n)
 3. Dynamically create an array of Student (using malloc)
 4. Ask for user input for the student details (name, age, grade) for all students
-5. Display all student details
+5. Display all student details in ascending order (From Highest to Lowest)
