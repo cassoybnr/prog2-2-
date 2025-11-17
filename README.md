@@ -1,1 +1,1 @@
-# prog2-2
+# repository for programming 2 with sir noob
